@@ -1,0 +1,52 @@
+Descriere
+
+Aplicatia este o platformă digitală integrată de tip "all-in-one" dedicată educației, care îmbină funcționalitățile unui sistem de management al învățării (LMS) cu cele ale unei piețe libere de meditații (Tutoring Marketplace).
+
+Scopul principal este de a oferi un ecosistem complet unde P pot crea și monetiza conținut educațional (cursuri, teste), iar Studenții pot accesa materiale de învățare structurate, pot fi evaluați prin sisteme securizate anti-fraudă și pot rezerva sesiuni de mentorat 1-la-1. Platforma pune accent pe interactivitate prin comentarii temporizate pe video și pe integritate academică prin module avansate de monitorizare a testelor. 
+
+Actori : 
+
+client
+
+baza de date
+
+sistem de plata
+
+ youtube api
+
+administrator/admin
+
+
+
+
+Use cases:
+
+
+
+Utilizatorii își creează conturi folosind email sau OAuth (Google) și își definesc rolul inițial.
+
+ Actorii își completează biografia, adaugă competențe (pentru profesori) sau interese (pentru studenți)
+
+Studentul explorează catalogul de cursuri folosind filtre și se înscrie la cursuri gratuite sau plătite.
+
+Vizionarea lecțiilor video, descărcarea materialelor PDF și urmărirea progresului procentual.
+
+Adăugarea de întrebări/comentarii la momente specifice (timestamp) într-un videoclip educațional.
+
+Studentul rezolvă teste într-un mediu securizat (fără posibilitatea de a schimba tab-ul sau de a copia textul).
+
+Profesorul structurează materia pe module și lecții, încărcând fișiere multimedia și text.
+
+Crearea de seturi de întrebări cu diverse formate și stabilirea regulilor de promovare.
+
+ Vizualizarea statisticilor despre studenții înrolați și rezultatele obținute de aceștia la teste
+
+Profesorul își configurează calendarul pentru sesiuni private de meditații.
+
+Studentul alege un interval liber din calendarul profesorului și efectuează plata.
+
+Accesarea link-ului de conferință video la ora stabilită pentru sesiunea live.
+
+Pentru aceasta problema am stabilit niste actori si niste use case-uri ? sunt bune? 
+
+baza de date daca este externa ex MySQL poate fi actor?
